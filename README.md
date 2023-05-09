@@ -22,7 +22,6 @@ I recently got a Bachelor of Science in Information Technology with specializati
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D0B1?logo=bulma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 ![React.JS](https://img.shields.io/badge/-React.JS-20232a?logo=React&logoColor=%261dafb)
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
@@ -47,7 +46,6 @@ I recently got a Bachelor of Science in Information Technology with specializati
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 
