@@ -1,6 +1,6 @@
 <p align="center">
  <a href="#">
-  <img src="https://raw.githubusercontent.com/harveyarboleda/harveyarboleda/main/raining.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/iharvs/iharvs/main/raining.gif" width="100%"/>
  </a>
 </p>
  
@@ -9,7 +9,7 @@
 I recently got a Bachelor of Science in Information Technology with specialization in Web and Mobile Application from FEU - Institute of Technology. I have extensive experience in programming and graphic design. Specifically, I have expertise in front-end development using Vue.JS, React.JS, React Native, BootStrap, and jQuery, as well as back-end development using Laravel and CodeIgniter.
 
 
-- 🎯 Portfolio website: [Portfolio](https://harveyarboleda.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://iharvs.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/harveyarboleda/)
 
@@ -51,17 +51,17 @@ I recently got a Bachelor of Science in Information Technology with specializati
 
 ## 🔥 Github Streaks<br/>
 <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=harveyarboleda&hide_border=true&theme=dark"></a>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=iharvs&hide_border=true&theme=dark"></a>
 </p>
 
 ## 💻 GitHub Stats <br/>
 <p align="center">
-  <img alt="harveyarboleda's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=harveyarboleda&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px" />
-  <img alt="harveyarboleda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harveyarboleda&layout=compact&theme=dark&bg_color=151515&hide_border=true&" height="192px" width="360px" /><br>
+  <img alt="iharvs's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iharvs&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px" />
+  <img alt="iharvs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharvs&layout=compact&theme=dark&bg_color=151515&hide_border=true&" height="192px" width="360px" /><br>
 </p>
 
 <p align="center">
  <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=harveyarboleda&amp;label=Profile+views&amp;color=brightgreen" style="max-width: 100%;">
+  <img src="https://komarev.com/ghpvc/?username=iharvs&amp;label=Profile+views&amp;color=brightgreen" style="max-width: 100%;">
  </a>
 </p>
